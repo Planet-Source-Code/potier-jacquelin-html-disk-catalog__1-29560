@@ -1,0 +1,13 @@
+bgoptions = 57, 209, 908, 802, C, 593, 328, 969, 619, C
+linkoptions = 208, 192, 868, 808, C, 258, 161, 593, 744, C
+about = 154, 154, 814, 770, C, 81, 292, 472, 560, C
+textoptions = 102, 114, 939, 608, C, 95, 151, 621, 553, C
+module_get_folder_name = 38, 24, 878, 813, C
+harddrive_access = 107, 73, 911, 847, 
+module_options = 161, 91, 797, 780, C
+module_restrictions = 44, 44, 968, 861, C
+other = 167, 109, 961, 725, C
+quicksort = 106, 64, 913, 888, 
+makehtml = 25, 35, 968, 792, C
+Form_main = 37, 189, 892, 751, C, 226, 156, 701, 535, C
+form_entries = 223, 151, 883, 767, C, 22, 22, 526, 488, C
